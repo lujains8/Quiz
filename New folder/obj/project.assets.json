@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\Quiz\\Quiz.csproj",
-      "projectName": "Quiz",
-      "projectPath": "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\Quiz\\Quiz.csproj",
+      "projectUniqueName": "C:\\Users\\Lulai\\OneDrive\\سطح المكتب\\New folder\\New folder.csproj",
+      "projectName": "New folder",
+      "projectPath": "C:\\Users\\Lulai\\OneDrive\\سطح المكتب\\New folder\\New folder.csproj",
       "packagesPath": "C:\\Users\\Lulai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lulai\\OneDrive\\المستندات\\GitHub\\Quiz\\obj\\",
+      "outputPath": "C:\\Users\\Lulai\\OneDrive\\سطح المكتب\\New folder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lulai\\AppData\\Roaming\\NuGet\\NuGet.Config"

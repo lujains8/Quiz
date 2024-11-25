@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz", "Quiz.csproj", "{561F5627-4C6E-42E4-8628-F93ECE7C9800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "New folder", "New folder.csproj", "{29876B93-004B-4203-8AFA-0569FE4B9FDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{561F5627-4C6E-42E4-8628-F93ECE7C9800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{561F5627-4C6E-42E4-8628-F93ECE7C9800}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{561F5627-4C6E-42E4-8628-F93ECE7C9800}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{561F5627-4C6E-42E4-8628-F93ECE7C9800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29876B93-004B-4203-8AFA-0569FE4B9FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29876B93-004B-4203-8AFA-0569FE4B9FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29876B93-004B-4203-8AFA-0569FE4B9FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29876B93-004B-4203-8AFA-0569FE4B9FDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {11F75D70-1A24-4118-B10F-F602B89F88A9}
+		SolutionGuid = {3FD1DFC3-8E4B-4C3C-BF12-5F1751CC1148}
 	EndGlobalSection
 EndGlobal

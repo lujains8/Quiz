@@ -1,4 +1,0 @@
-C:\Users\Lulai\OneDrive\المستندات\GitHub\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lulai\OneDrive\المستندات\GitHub\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
-C:\Users\Lulai\OneDrive\المستندات\GitHub\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
-C:\Users\Lulai\OneDrive\المستندات\GitHub\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
